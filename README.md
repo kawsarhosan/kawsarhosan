@@ -1,4 +1,4 @@
-<h1 align="center">Helo 👋, I'm Md Kawsar Hosan</h1>
+<h1 align="center">Hello 👋, I'm Md Kawsar Hosan</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawsarhosan&label=Profile%20views&color=0e75b6&style=flat" alt="kawsarhosan" /> </p>
