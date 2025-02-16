@@ -9,9 +9,9 @@
 
 - 📝 I regularly write articles on [www.kawsarhosan.com](www.kawsarhosan.com)
 
-- 📫 How to reach me **kawsarahmedsakil@gmail.com**
+- 📫 How to reach me **hello.kawsarhosan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ze3_Y01CU7k77iNIKGaXmJJiPJEt9IGI/view?usp=sharing](https://drive.google.com/file/d/1ze3_Y01CU7k77iNIKGaXmJJiPJEt9IGI/view?usp=sharing)
+- 📄 Know about my experiences
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
